@@ -13,5 +13,4 @@ page de liste des technique agricool
 
 page de modification d'une technique avec les historique de details de technique
 
-
 ![image](https://github.com/Abdelfatah-errazy1/appGricool/assets/110500328/aeca4cc8-d9cf-4534-a58c-e1a25d15d6b3)
